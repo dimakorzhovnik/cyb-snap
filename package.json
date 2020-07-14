@@ -18,7 +18,6 @@
   },
   "web3Wallet": {
    "bundle": {
-      "local": "bundle.js",
       "url": "https://raw.githubusercontent.com/dimakorzhovnik/cyb-snap/master/dist/bundle.js"
     },
     "initialPermissions": {
