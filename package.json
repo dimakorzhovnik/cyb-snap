@@ -19,7 +19,9 @@
   "web3Wallet": {
     "bundle": {
       "local": "dist/bundle.js",
-      "url": "http://localhost:8084/dist/bundle.js"
+      "dependencies" : {
+        "cyb-snap" : "git://github.com/dimakorzhovnik/cyb-snap.git"
+      }
     },
     "initialPermissions": {
       "metamask_getPluginState": {},
