@@ -17,9 +17,9 @@
     "sha256": "^0.2.0"
   },
   "web3Wallet": {
-    "bundle": {
+   "bundle": {
       "local": "dist/bundle.js",
-      "url": "https://raw.githubusercontent.com/dimakorzhovnik/cyb-snap/master/dist/bundle.js" 
+      "url": "http://localhost:8084/dist/bundle.js"
     },
     "initialPermissions": {
       "metamask_getPluginState": {},
